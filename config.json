@@ -5,7 +5,7 @@
     "tag": "vless-in",
     "listen": "::",
     "listen_port": 8080,
-    "users": [{ "uuid": "1a73d757-91e8-422a-9d6c-bbfe6fb119bc" }],
+    "users": [{ "uuid": "979b33b0-d9d5-4535-99a1-ea4706e66f07" }],
     "transport": { "type": "ws", "path": "/chat" }
   }],
   "outbounds": [{ "type": "direct", "tag": "direct" }]
